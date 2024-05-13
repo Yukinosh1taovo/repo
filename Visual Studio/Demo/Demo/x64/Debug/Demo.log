@@ -1,0 +1,12 @@
+﻿  jingziqi.cpp
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(67,35): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(67,20): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(70,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(70,32): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(70,23): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(70,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(71,47): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(71,38): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(71,29): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Files\Visual Studio\Demo\Demo\jingziqi.cpp(71,14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Demo.vcxproj -> D:\Files\Visual Studio\Demo\x64\Debug\Demo.exe
