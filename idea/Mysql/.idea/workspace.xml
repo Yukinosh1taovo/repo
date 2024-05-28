@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="907fb1b7-edb7-483b-abfd-2537e4bcd5a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/idea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/idea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Arr3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/BinarySearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Calculate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/CalculateArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Device.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/MobilePhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Outer$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Outer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Radio.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Soundable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/Walkman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/idea/vector.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2h270GMu4IvGeWfXz9UtHVmeqBj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Files/repo/idea/Mysql",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="907fb1b7-edb7-483b-abfd-2537e4bcd5a8" name="Changes" comment="" />
+      <created>1716780094450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716780094450</updated>
+    </task>
+    <servers />
+  </component>
+</project>
