@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="907fb1b7-edb7-483b-abfd-2537e4bcd5a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/idea.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/idea.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Arr3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/BinarySearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Calculate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/CalculateArea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Device.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/I.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/MobilePhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Radio.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Soundable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/Walkman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/idea/vector.class" beforeDir="false" />
-    </list>
+    <list default="true" id="c648ec43-cbcd-4ca4-bd0b-6daca0b45923" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,43 +17,76 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
-  <component name="ProjectId" id="2h270GMu4IvGeWfXz9UtHVmeqBj" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2h93JI7rabav20dIZmcsusZOe3j" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Files/repo/idea/Mysql",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.DatabaseOperationGUI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoginFrame.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Files/jxust/实训大作业课设实验/Java实验/gpt/lib/mysql-connector-j-8.4.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="907fb1b7-edb7-483b-abfd-2537e4bcd5a8" name="Changes" comment="" />
-      <created>1716780094450</created>
+      <changelist id="c648ec43-cbcd-4ca4-bd0b-6daca0b45923" name="Changes" comment="" />
+      <created>1716992393698</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1716780094450</updated>
+      <updated>1716992393698</updated>
+      <workItem from="1716992395216" duration="297000" />
+      <workItem from="1716993061813" duration="368000" />
+      <workItem from="1716993848008" duration="207000" />
+      <workItem from="1717038634021" duration="2013000" />
+      <workItem from="1717041752183" duration="44000" />
+      <workItem from="1717041802172" duration="187000" />
+      <workItem from="1717048652754" duration="1532000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
