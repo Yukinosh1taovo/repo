@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d968b51-ea0f-4a11-9286-0d544f97e591" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../vscode/.vscode/c_cpp_properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../vscode/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayListSample.executor": "Run",
+    "Application.ArrayListSample1.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.StringJoinerSample.executor": "Run",
     "Application.StringSample.executor": "Run",
@@ -82,6 +84,7 @@
       <workItem from="1717986278109" duration="947000" />
       <workItem from="1718029441163" duration="2000" />
       <workItem from="1718091192404" duration="4355000" />
+      <workItem from="1718096544142" duration="3215000" />
     </task>
     <servers />
   </component>
