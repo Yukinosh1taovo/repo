@@ -6,7 +6,7 @@ public class ArraySample {
 
         int[] arr1 = new int[100]; // int a[100];
 
-        
+        int n = arr.length;
     }
 
 }

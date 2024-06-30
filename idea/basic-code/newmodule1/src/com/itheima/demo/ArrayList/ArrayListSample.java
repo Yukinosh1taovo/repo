@@ -21,8 +21,7 @@ public class ArrayListSample {
 
         list.set(2, "eee");
 
-        String s = list.get(1);
-        System.out.println(s);
+
 
 
         System.out.print("[");

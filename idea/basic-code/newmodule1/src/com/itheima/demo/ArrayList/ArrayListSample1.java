@@ -4,6 +4,7 @@ import java.util.ArrayList;
 
 public class ArrayListSample1 {
     public static void main(String[] args) {
+
         ArrayList<Integer> list = new ArrayList<>();
         // 使用包装类Integer而不是int  ArrayList不能存储基本数据类型 只能存储引用数据类型 byte-Byte, char-Character ...
 
@@ -12,6 +13,9 @@ public class ArrayListSample1 {
         list.add(3);
         list.add(4);
         list.add(5);
+
+       char ch = 65;
+        System.out.println(ch);
 
 
         System.out.print("[");

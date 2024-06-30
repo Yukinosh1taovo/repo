@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d968b51-ea0f-4a11-9286-0d544f97e591" name="Changes" comment="">
+    <list default="true" id="1d968b51-ea0f-4a11-9286-0d544f97e591" name="Changes" comment="null">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Array/ArraySample.class" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Array/ArraySample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/ArrayList/ArrayListSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/ArrayList/ArrayListSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/ArrayList/ArrayListSample1.class" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/ArrayList/ArrayListSample1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Array/ArraySample.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Array/ArraySample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/ArrayList/ArrayListSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/ArrayList/ArrayListSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/ArrayList/ArrayListSample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/ArrayList/ArrayListSample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Screenshot_2024-05-08-16-50-01-491_tv.danmaku.bil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Screenshot_2024-05-08-16-50-17-009_tv.danmaku.bil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Screenshot_2024-05-08-16-56-05-442_tv.danmaku.bil.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Snipaste_2024-05-12_11-37-29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Snipaste_2024-05-12_11-57-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Snipaste_2024-05-12_12-08-59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Snipaste_2024-05-13_21-50-00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Snipaste_2024-05-13_21-51-36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Snipaste_2024-05-13_21-52-04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../typora/Snipaste_2024-05-13_22-26-05.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,31 +49,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayListSample.executor": "Run",
-    "Application.ArrayListSample1.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.StringJoinerSample.executor": "Run",
-    "Application.StringSample.executor": "Run",
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Files/repo/idea/basic-code",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Language Defaults",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrUtilTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListSample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringJoinerSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringSample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentClassProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StudentTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dengebenjin.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dengebenxi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Files/repo/idea/basic-code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;,
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -85,10 +113,87 @@
       <workItem from="1718029441163" duration="2000" />
       <workItem from="1718091192404" duration="4355000" />
       <workItem from="1718096544142" duration="3215000" />
+      <workItem from="1718196680015" duration="214000" />
+      <workItem from="1718202849985" duration="1029000" />
+      <workItem from="1718247276890" duration="8375000" />
+      <workItem from="1718336581367" duration="2795000" />
+      <workItem from="1718370733699" duration="319000" />
+      <workItem from="1718376424993" duration="3333000" />
+      <workItem from="1718416060802" duration="4761000" />
+      <workItem from="1718429173838" duration="101000" />
+      <workItem from="1718796353020" duration="2685000" />
+      <workItem from="1718976650399" duration="67000" />
+      <workItem from="1719026662911" duration="6788000" />
+      <workItem from="1719232354460" duration="953000" />
+      <workItem from="1719292421291" duration="6907000" />
     </task>
+    <task id="LOCAL-00001" summary="null">
+      <option name="closed" value="true" />
+      <created>1718196878180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718196878180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="main" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="null" />
+    <option name="LAST_COMMIT_MESSAGE" value="null" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
