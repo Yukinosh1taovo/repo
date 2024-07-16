@@ -9,3 +9,5 @@ ctrl + shift + U  转换大小写
 ctrl + N 搜索
 
 ctrl + F12 查找本类下的方法
+
+ctrl + P 提示参数信息
