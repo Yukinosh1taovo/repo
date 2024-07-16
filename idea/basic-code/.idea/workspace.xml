@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1d968b51-ea0f-4a11-9286-0d544f97e591" name="Changes" comment="null">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/3b1894ec-1c68-43b9-97f0-d15a54ce2a38.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources/3b1894ec-1c68-43b9-97f0-d15a54ce2a38/storage_v2/_src_/schema/db_student.etdwSw.meta" beforeDir="false" />
@@ -25,6 +26,79 @@
       <change beforePath="$PROJECT_DIR$/newmodule2/newmodule2.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vscode/.vscode/tasks.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../vscode/.vscode/tasks.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../vscode/exe/demo.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../vscode/exe/demo.exe" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/3b1894ec-1c68-43b9-97f0-d15a54ce2a38.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/3b1894ec-1c68-43b9-97f0-d15a54ce2a38.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/gongchengjingji/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/gongchengjingji/Cylinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/gongchengjingji/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/gongchengjingji/dengebenjin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/gongchengjingji/dengebenxi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Array/ArraySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/ArrayList/ArrayListSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/ArrayList/ArrayListSample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends/Husky.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends/LiHua.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends/RagDoll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends/Teddy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends2/Fu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends2/OverseasStudents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends2/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends2/Students.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends2/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends2/Ye.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Extends2/Zi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Static/StaticSample_Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/Static/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/String/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/String/StringBuilderSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/String/StringJoinerSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/String/StringSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/a01static/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/a01static/StudentClassProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/a01static/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/a01static/StudentUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/a02static/ArrUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/itheima/demo/a02static/ArrUtilTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/pta/homework/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/pta/homework/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/out/production/newmodule1/com/pta/homework/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/gongchengjingji/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/gongchengjingji/dengebenjin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/gongchengjingji/dengebenxi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Array/ArraySample.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/basic/Array/ArraySample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/ArrayList/ArrayListSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/basic/ArrayList/ArrayListSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/ArrayList/ArrayListSample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/basic/ArrayList/ArrayListSample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends/Husky.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends/Husky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends/LiHua.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends/LiHua.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends/RagDoll.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends/RagDoll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends/Teddy.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends/Teddy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends01/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Extends2/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Extends01/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Static/StaticSample_Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Static/StaticSample_Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/Static/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Static/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/String/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/basic/String/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/String/StringBuilderSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/basic/String/StringBuilderSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/String/StringJoinerSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/basic/String/StringJoinerSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/String/StringSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/basic/String/StringSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/a01static/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Static01/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/a01static/StudentClassProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Static01/StudentClassProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/a01static/StudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Static01/StudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/a01static/StudentUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Static01/StudentUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/a02static/ArrUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Static02/ArrUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/itheima/demo/a02static/ArrUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/newmodule1/src/com/itheima/oop/Static02/ArrUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule1/src/com/pta/homework/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/newmodule2/newmodule2.iml" beforeDir="false" />
+>>>>>>> 05e4cfc8c6b8e6a774f0ece508cda02160955037
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +153,11 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+<<<<<<< HEAD
     &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+=======
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+>>>>>>> 05e4cfc8c6b8e6a774f0ece508cda02160955037
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -129,10 +207,19 @@
       <workItem from="1719026662911" duration="6788000" />
       <workItem from="1719232354460" duration="953000" />
       <workItem from="1719292421291" duration="6907000" />
+<<<<<<< HEAD
       <workItem from="1719741200470" duration="176000" />
       <workItem from="1719741679490" duration="34000" />
       <workItem from="1719794467617" duration="63000" />
       <workItem from="1721092267212" duration="1274000" />
+=======
+      <workItem from="1719741244812" duration="733000" />
+      <workItem from="1719804185044" duration="21000" />
+      <workItem from="1719906030530" duration="3215000" />
+      <workItem from="1719977804240" duration="10000" />
+      <workItem from="1719978771311" duration="945000" />
+      <workItem from="1720944410558" duration="2873000" />
+>>>>>>> 05e4cfc8c6b8e6a774f0ece508cda02160955037
     </task>
     <task id="LOCAL-00001" summary="null">
       <option name="closed" value="true" />
