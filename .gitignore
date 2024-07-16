@@ -1,0 +1,11 @@
+.idea/
+.vscode/
+*.iml
+.vs/
+exe/
+*.log
+*.temp
+*.tmp
+*.o
+*.exe
+*.dll
