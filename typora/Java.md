@@ -15,3 +15,9 @@ ctrl + P 提示参数信息
 选中类或方法后ctrl + B 查找定义
 
 选中代码 ctrl + alt + M 抽取代码为本类的私有方法
+
+ctrl + alt + L 格式化代码
+
+ctrl + alt + V 生成变量
+
+ctrl + D 向下复制一行
