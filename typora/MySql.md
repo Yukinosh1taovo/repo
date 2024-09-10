@@ -2,27 +2,27 @@
 
 cmd连接本地数据库`mysql -u '用户名' -p`
 
-![](D:\Files\repo\typora\Snipaste_2024-05-13_21-50-00.png)
+![](C:\Files\repo\typora\img\Snipaste_2024-05-13_21-50-00.png)
 
 ## 数据类型
 
-![](D:\Files\repo\typora\Screenshot_2024-05-08-16-50-01-491_tv.danmaku.bil.png)
+![](C:\Files\repo\typora\img\Screenshot_2024-05-08-16-50-01-491_tv.danmaku.bil.png)
 
-![](D:\Files\repo\typora\Screenshot_2024-05-08-16-50-17-009_tv.danmaku.bil.png)
+![](C:\Files\repo\typora\img\Screenshot_2024-05-08-16-50-17-009_tv.danmaku.bil.png)
 
-![](D:\Files\repo\typora\Screenshot_2024-05-08-16-56-05-442_tv.danmaku.bil.png)
+![](C:\Files\repo\typora\img\Screenshot_2024-05-08-16-56-05-442_tv.danmaku.bil.png)
 
 
-
----
-
-![](D:\Files\repo\typora\Snipaste_2024-05-13_21-51-36.png)
 
 ---
 
-## **SQL**
+![](C:\Files\repo\typora\img\Snipaste_2024-05-13_21-51-36.png)
 
-![](D:\Files\repo\typora\Snipaste_2024-05-13_21-52-04.png)
+---
+
+## **SQL分类**
+
+![](C:\Files\repo\typora\img\Snipaste_2024-05-13_21-52-04.png)
 
 
 
@@ -145,7 +145,7 @@ SELECT DISTINCT 字段列表 FROM 表名; # 去除重复记录
 SELECT 字段列表 FROM 表名 WHERE 条件列表;
 ```
 
-<img src="D:\Files\repo\typora\Snipaste_2024-05-12_11-37-29.png" style="zoom:100%;" />
+<img src="C:\Files\repo\typora\img\Snipaste_2024-05-12_11-37-29.png" style="zoom:100%;" />
 
 3. ### 聚合函数
 
@@ -154,7 +154,7 @@ SELECT 聚合函数(字段列表) FROM 表名;
 SELECT sum(age) FROM emp WHERE ID IS NOT NULL; # 例
 ```
 
-![](D:\Files\repo\typora\Snipaste_2024-05-12_11-57-36.png)
+![](C:\Files\repo\typora\img\Snipaste_2024-05-12_11-57-36.png)
 
 4. ### 分组查询
 
@@ -167,7 +167,7 @@ SELECT workaddress, count(*) FROM emp WHERE age < 45 GROUP BY workaddress HAVING
 #一般带group by的分组查询 字段列表为 分组字段名 + 聚合函数 
 ```
 
-![](D:\Files\repo\typora\Snipaste_2024-05-12_12-08-59.png)
+![](C:\Files\repo\typora\img\Snipaste_2024-05-12_12-08-59.png)
 
 5. ### 排序查询
 
@@ -211,7 +211,7 @@ DROP USER '用户名' @ '主机名';
 
 
 
-![](D:\Files\repo\typora\Snipaste_2024-05-13_22-26-05.png)
+![](C:\Files\repo\typora\img\Snipaste_2024-05-13_22-26-05.png)
 
 1. 查询权限
 
